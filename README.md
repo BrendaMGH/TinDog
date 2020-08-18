@@ -1,3 +1,3 @@
 # TinDog 
 Starting Files
-Bootstrap project
+Bootstrap project section 6 and 7
